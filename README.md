@@ -1,3 +1,9 @@
+Author: Abanilla, Krizea Gabrielle C.
+        Aungon, Kyla Marie P.
+        Guitierrez, Jouana Joy J.
+Course: Object-Oriented Programming (Java)
+Project Title: OOP Quest: Javenture
+
 OOP Quest: Java Learning Adventure
 
 OOP Quest is a console-based Java learning application designed to help beginners understand fundamental Java concepts through interactive modules. The program allows users to explore lessons, view questions and answers, and take quizzes on core Java topics such as the main method, syntax and printing, and string handling. It applies Object-Oriented Programming (OOP) principles to create a structured, modular, and extensible learning experience while tracking user progress and scores.
@@ -149,7 +155,7 @@ Press Enter to continue...
 ============================================================
                     YOUR PROGRESS
 ============================================================
-Player: Alex
+Player: Jouana
 Total Score: 30 points
 
 Completed Modules:
@@ -164,20 +170,11 @@ Press Enter to continue...
 Final Score: 30 points
 Modules Completed: 1
 
-Keep learning Java! Goodbye, Alex!
+Keep learning Java! Goodbye, Jouana!
 ============================================================
 
-
-Author and Acknowledgement
-Author: Abanilla, Krizea Gabrielle C.
-        Aungon, Kyla Marie P.
-        Guitierrez, Jouana Joy J.
-Course: Object-Oriented Programming (Java)
-Project Title: OOP Quest: Javenture
-
 Acknowledgement
-
-The authors would like to express sincere gratitude to the course instructor for guidance and feedback throughout the development of this project. Appreciation is also extended to classmates and peers who provided ideas, motivation, and support during the implementation process. Additionally, online Java documentation and learning resources were instrumental in reinforcing the concepts applied in this project.
+    The authors would like to express sincere gratitude to the course instructor for guidance and feedback throughout the development of this project. Appreciation is also extended to classmates and peers who provided ideas, motivation, and support during the implementation process. Additionally, online Java documentation and learning resources were instrumental in reinforcing the concepts applied in this project.
 
 Future Enhancements
     1. The following improvements may be considered for future versions of the program:
