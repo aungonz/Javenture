@@ -61,117 +61,34 @@ How to Run the Program
    Command Prompt / Terminal or an IDE (VS Code)
 
 Steps to Run
-  1.Save the file as OOPQuestFinal.java
-  2.Open a terminal or command prompt
-  3.Navigate to the directory containing the file
-  4.Compile the program:
+1.Save the file as OOPQuestFinal.java
+2.Open a terminal or command prompt
+3.Navigate to the directory containing the file
+4.Compile the program:
      'java OOPQuestFinal.java'
-  5.Run the program:
+5.Run the program:
      'java OOPQuestFinal'
 
 Sample Output
-   
-============================================================
-          OOP QUEST: JAVA LEARNING ADVENTURE
-     Master Java Fundamentals Through Interactive Learning!
-============================================================
 
-Enter your name: Jouana
 
-Welcome, Jouana! Let's begin your Java journey!
+<img width="599" height="312" alt="Screenshot 2025-12-16 131900" src="https://github.com/user-attachments/assets/9c18574b-5db8-4365-9b29-c94aaccd1d53" />
 
-============================================================
-                        MAIN MENU
-============================================================
-Player: Jouana | Score: 0
-------------------------------------------------------------
-1. Module 1: Main Function of Java
-2. Module 2: Java Syntax & Printing
-3. Module 3: String Handling
-4. View Score
-5. Exit
-============================================================
+<img width="615" height="298" alt="Screenshot 2025-12-16 132021" src="https://github.com/user-attachments/assets/6363a241-64f0-40b7-b037-ec095bbb6811" />
 
-============================================================
-  Main Function of Java
-============================================================
-1. Ask -View Q&A
-2. Learn - Educational contents
-3. Play Quiz - Test your knowledges
-4. Return to Main Menu
-============================================================
+<img width="590" height="255" alt="image" src="https://github.com/user-attachments/assets/c0b4fb32-5b57-4851-b95b-ac5ca933f81e" />
 
-Enter your choice (1-4): 2
+<img width="598" height="435" alt="image" src="https://github.com/user-attachments/assets/4b2d4947-293e-4d0f-8803-7f8063fa8f99" />
 
-============================================================
-  LEARN: Main Function of Java
-============================================================
+<img width="603" height="680" alt="image" src="https://github.com/user-attachments/assets/a9a99e63-70d9-4236-a8bc-3f9f7ed5d687" />
 
-Every Java program must have a main() method:
+<img width="674" height="904" alt="image" src="https://github.com/user-attachments/assets/2dd9a7c3-257b-4f15-b45a-5bd165dbde4e" />
 
-Syntax:
-  public static void main(String[] args) {
-      // Your code here
-  }
+<img width="587" height="266" alt="image" src="https://github.com/user-attachments/assets/0fe33f2e-b64e-4ad0-85f9-e096e5ab49bf" />
 
-Breaking it down:
-  • public    - Access modifier
-  • static    - Can be called without creating an object
-  • void      - Returns nothing
-  • main      - Entry point of the program
+<img width="576" height="173" alt="image" src="https://github.com/user-attachments/assets/d8fb893b-ba35-43c3-baad-e02412674ccb" />
 
-Press Enter to continue...
 
-============================================================
-  QUIZ: Main Function of Java
-============================================================
-
-Question 1/3:
-What keyword allows the JVM to call main() without creating an object?
-a. public
-b. static
-c. void
-d. main
-
-Your answer: b
-Correct! 'static' allows calling without an object.
-
-Question 2/3:
-What does 'void' mean in the main method?
-Your answer: b
-Correct! 'void' means no return value.
-
-Question 3/3:
-What happens if you don't include main() in your program?
-Your answer: c
-Correct! You'll get a runtime error.
-
-------------------------------------------------------------
-Quiz Complete! Score: 30/30
-------------------------------------------------------------
-
-Press Enter to continue...
-
-============================================================
-                    YOUR PROGRESS
-============================================================
-Player: Jouana
-Total Score: 30 points
-
-Completed Modules:
-Main Function of Java
-============================================================
-
-Press Enter to continue...
-
-============================================================
-              THANK YOU FOR PLAYING!
-============================================================
-Final Score: 30 points
-Modules Completed: 1
-
-Keep learning Java! Goodbye, Jouana!
-============================================================
 
 Acknowledgement
     The authors would like to express sincere gratitude to the course instructor for guidance and feedback throughout the development of this project. Appreciation is also extended to classmates and peers who provided ideas, motivation, and support during the implementation process. Additionally, online Java documentation and learning resources were instrumental in reinforcing the concepts applied in this project.
