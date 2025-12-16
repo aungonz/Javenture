@@ -1,6 +1,6 @@
 Author: Abanilla, Krizea Gabrielle C.
-        Aungon, Kyla Marie P.
-        Guitierrez, Jouana Joy J.
+	Aungon, Kyla Marie P.
+	Guitierrez, Jouana Joy J.
 Course: Object-Oriented Programming (Java)
 Project Title: OOP Quest: Javenture
 
@@ -87,6 +87,8 @@ Sample Output
 <img width="587" height="266" alt="image" src="https://github.com/user-attachments/assets/0fe33f2e-b64e-4ad0-85f9-e096e5ab49bf" />
 
 <img width="576" height="173" alt="image" src="https://github.com/user-attachments/assets/d8fb893b-ba35-43c3-baad-e02412674ccb" />
+
+
 
 
 
